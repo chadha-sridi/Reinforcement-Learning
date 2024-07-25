@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-This repository is for reinforcement learning (RL) research on exploration. It compares how different exploration techniques affect agents' ability to learn in 3 different environments. This project aims to gather data and insights on how these techniques influence the agent's learning process.
+Training agents in classic gym environments using the PPO RL algorithm.
