@@ -1,2 +1,5 @@
 # Reinforcement-Learning
-Training agents in classic gym environments using the PPO algorithm.
+Training RL agents in classic gym environments using PPO algorithm.
+* Cartpole
+* Mountain Car
+* Montezuma Revenge
